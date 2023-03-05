@@ -1,6 +1,7 @@
 # Maximilian Stingl
 
 Current position: Bioinformatics engineer at Toxalim lab, INRAE Toulouse
+
 Currenly working on:
 - [DEXOM-python](https://forgemia.inra.fr/metexplore/cbm/dexom-python)
 A python library for enumerating context-specific metabolic networks.
